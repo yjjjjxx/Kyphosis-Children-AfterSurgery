@@ -1,4 +1,4 @@
-# Kyphosis-Children-AfterSurgery
+# Kyphosis-Classification-Children-AfterSurgery
 A study was conducted on children who had corrective spinal surgery. We are interested in factors that might result in kyphosis (a kind of deformation) after surgery. 
 
 
